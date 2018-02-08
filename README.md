@@ -14,56 +14,56 @@ When jumping the player is able to avoid obstacles and gain points.
 
 ###**Gameplay**###
 
-APPLE INCORPERATED I PAD
+APPLE INCORPORATED I PAD
 - Tap the application icon.
 - The game shall load to a start screen.
 - Tap the START button to begin.
-- A spinning gear should apear as the player's character as well as SCORE with a 0 underneith it.
-- Tap anywhere on the screen to jump betweent the two walls.
+- A spinning gear should appear as the player's character as well as SCORE with a 0 underneath it.
+- Tap anywhere on the screen to jump between the two walls.
 - Whenever contacting a white wall a point shall be gained.
-- Avoid the gray obstacles or death will immediatly follow.
+- Avoid the grey obstacles or death will immediately follow.
 - Whenever failure occurs a GAME OVER, HIGH SCORE, and SCORE text will appear along with a TRY AGAIN button.
 - Select TRY AGAIN to restart the game.
 - Replay to try and beat previous high scores for bragging rights.
 - To quit, double tap the device's physical home button.
 - Swipe upwards on the screen displaying the game.
 
-APPLE INCORPERATED I PHONE
+APPLE INCORPORATED I PHONE
 - Tap the application icon.
 - The game shall load to a start screen.
 - Tap the START button to begin.
-- A spinning gear should apear as the player's character as well as SCORE with a 0 underneith it.
-- Tap anywhere on the screen to jump betweent the two walls.
+- A spinning gear should appear as the player's character as well as SCORE with a 0 underneath it.
+- Tap anywhere on the screen to jump between the two walls.
 - Whenever contacting a white wall a point shall be gained.
-- Avoid the gray obstacles or death will immediatly follow.
+- Avoid the grey obstacles or death will immediately follow.
 - Whenever failure occurs a GAME OVER, HIGH SCORE, and SCORE text will appear along with a TRY AGAIN button.
 - Select TRY AGAIN to restart the game.
 - Replay to try and beat previous high scores for bragging rights.
 - To quit, double tap the device's physical home button.
 - Swipe upwards on the screen displaying the game.
 
-APPLE INCORPERATED I POD
+APPLE INCORPORATED I POD
 - Tap the application icon.
 - The game shall load to a start screen.
 - Tap the START button to begin.
-- A spinning gear should apear as the player's character as well as SCORE with a 0 underneith it.
-- Tap anywhere on the screen to jump betweent the two walls.
+- A spinning gear should appear as the player's character as well as SCORE with a 0 underneath it.
+- Tap anywhere on the screen to jump between the two walls.
 - Whenever contacting a white wall a point shall be gained.
-- Avoid the gray obstacles or death will immediatly follow.
+- Avoid the grey obstacles or death will immediately follow.
 - Whenever failure occurs a GAME OVER, HIGH SCORE, and SCORE text will appear along with a TRY AGAIN button.
 - Select TRY AGAIN to restart the game.
 - Replay to try and beat previous high scores for bragging rights.
 - To quit, double tap the device's physical home button.
 - Swipe upwards on the screen displaying the game.
 
-APPLE INCORPERATED TELEVISION
+APPLE INCORPORATED TELEVISION
 - Click on the application icon.
 - The game shall load to a start screen.
 - Click to begin.
-- A spinning gear should apear as the player's character as well as SCORE with a 0 underneith it.
-- Click to jump betweent the two walls.
+- A spinning gear should appear as the player's character as well as SCORE with a 0 underneath it.
+- Click to jump between the two walls.
 - Whenever contacting a white wall a point shall be gained.
-- Avoid the gray obstacles or death will immediatly follow.
+- Avoid the grey obstacles or death will immediately follow.
 - Whenever failure occurs a GAME OVER, HIGH SCORE, and SCORE text will appear along with a TRY AGAIN button.
 - Click to restart the game.
 - Replay to try and beat previous high scores for bragging rights.
