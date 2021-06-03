@@ -1,4 +1,5 @@
 # Tiny-Gear
+
 A metaphor for life. We are all small cogs in the large industrial machine that is society. This one button endless runner will have you addicted during the very first play through.  Accumulate as many points as possible by jumping from one rack-and-pinion to another! Avoid difficult obstacles! Make and beat a High Score by tapping your way victory!
 
 If you enjoy...
