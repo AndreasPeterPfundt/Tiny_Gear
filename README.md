@@ -1,5 +1,13 @@
 # Tiny-Gear
-A metaphor for life. We are all small cogs in the large industrial machine that is society. This one button endless runner will have you addicted during the very first play through.  Accumulate as many points as possible by jumping from one rack-and-pinion to another! Avoid difficult obstacles! Make and beat a High Score by tapping your way victory!  If you enjoy:  ~ Retro Art. ~ Challenging Level Design. ~ Randomly generated Programming.  There is no doubt that you will appreciate the Game Design implemented here.
+A metaphor for life. We are all small cogs in the large industrial machine that is society. This one button endless runner will have you addicted during the very first play through.  Accumulate as many points as possible by jumping from one rack-and-pinion to another! Avoid difficult obstacles! Make and beat a High Score by tapping your way victory!
+
+If you enjoy: 
+
+• Retro Art.
+• Challenging Level Design.
+• Randomly generated Programming.
+
+There is no doubt that you will appreciate the Game Design implemented here.
 
 ###**PFUNDT A<Final>: <Final: Shipable>**
 ----------
