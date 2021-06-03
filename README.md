@@ -5,7 +5,9 @@ A metaphor for life. We are all small cogs in the large industrial machine that 
 If you enjoy...
 
 • Retro Art.
+
 • Challenging Level Design.
+
 • Randomly generated Programming.
 
 ... there is no doubt that you will appreciate the Game Design implemented here.
